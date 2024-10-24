@@ -1,0 +1,13 @@
+name = "Cull Less Leaves"
+filename = "Cull Less Leaves-1.4.1+1.21-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iG6ZHsUV/versions/OsbXrC8A/Cull%20Less%20Leaves-1.4.1%2B1.21-fabric.jar"
+hash-format = "sha1"
+hash = "2f01f5ebdf303528ee6126efcce6bf0ff75f3161"
+
+[update]
+[update.modrinth]
+mod-id = "iG6ZHsUV"
+version = "OsbXrC8A"

@@ -1,0 +1,13 @@
+name = "No More Phantoms"
+filename = "no-more-phantoms-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Oe1SVpwg/versions/XwILPyae/no-more-phantoms-1.0.2.jar"
+hash-format = "sha1"
+hash = "bf6f7b7bca6293336cf787d934406c839e72f276"
+
+[update]
+[update.modrinth]
+mod-id = "Oe1SVpwg"
+version = "XwILPyae"

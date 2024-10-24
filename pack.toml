@@ -1,0 +1,13 @@
+name = "Tempest"
+author = "sammyette"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1aa278b9432c7457d438b7ab853aec12365b9f6babda53bb73a058c1e4d26afb"
+
+[versions]
+fabric = "0.16.7"
+minecraft = "1.21.1"
