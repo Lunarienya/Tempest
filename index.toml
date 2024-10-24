@@ -55,6 +55,16 @@ hash = "d8c757f4a1f9d3abef4a3b25a889af423003a9b8af300d6e3e243f3f53f4d152"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "16ecba67eb9be7b90c959b7c2fb51bc02aebabec02e22ac7afb1149559a9496b"
+metafile = true
+
+[[files]]
+file = "mods/better-f1-reborn.pw.toml"
+hash = "c03d48eed96ab15ed32e08205a262c8a501114b235c37dbf5c667d61c442f6db"
+metafile = true
+
+[[files]]
 file = "mods/better-than-mending.pw.toml"
 hash = "a3cb67ec07bf96deae57a095a0d2b2a77954914084b7e120cad8ad67fabc00ac"
 metafile = true
@@ -82,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "4fc65c8f5ae931332e06e5e60f7c9dd7d5dd724f7f9e2e66ef2800b7c1cc3693"
+metafile = true
+
+[[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "3397c5fb311bb7cd395bcf1a65ca4f9a697a0903a6e550f2608efa2cef00b19d"
 metafile = true
 
 [[files]]
@@ -175,6 +190,11 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
+file = "mods/edgeless-chat-screen.pw.toml"
+hash = "2c300c56461c84e38ec442c436ae10dbbbca0cb254d352c40a3c03f636c29cd2"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "0c3c85967808550cd2fcc3de024342ac79c3b6c73484ad040b11a2e3347a2275"
 metafile = true
@@ -187,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "e59290cc651560ff72dd312016a76bbe8174bbfc53dbe1106671c155497abf39"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "2ad35d1b513308d702e9fe45f3c711d63dd1abb8fcbbb40d9a1d7c37d4d5d367"
 metafile = true
 
 [[files]]
@@ -225,6 +250,11 @@ hash = "ae83dfcccd580352eee3cf509ace37f67f1bf0d2862d2d9c9d64d8909892d2d4"
 metafile = true
 
 [[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "899685dcf62ea766b1bc17580eac543b72901fcc6e7854de9da9180b5974d460"
+metafile = true
+
+[[files]]
 file = "mods/fastanim.pw.toml"
 hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
 metafile = true
@@ -252,6 +282,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "f13454863d6c3090930f7f1954d06234ef1c614d5b4b9d4895d3e47c95bd0dc2"
+metafile = true
+
+[[files]]
+file = "mods/gamemenuremovegfarb.pw.toml"
+hash = "769e07f03e65c6adb8708f4da6c476365b24aad10f943514d6bbd8b0f57ff327"
 metafile = true
 
 [[files]]
@@ -315,6 +350,16 @@ hash = "6a3d0929ea1d8d68110cfb79de2c283df554b6232533b2e90175d845a1ebf47a"
 metafile = true
 
 [[files]]
+file = "mods/log-cleaner.pw.toml"
+hash = "65a25b591b2afa0767de3426a944495a52721d71a7328daa3639e60dd88a04eb"
+metafile = true
+
+[[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "7360de6463f20c08edaeff169419707f24c3ad7359e147fd717dedc70fd1c111"
+metafile = true
+
+[[files]]
 file = "mods/mc-249136-fix.pw.toml"
 hash = "4caef00d584b5a6394b9b09a373f755bf62e3b3e7fc44da94883c51fc087d77d"
 metafile = true
@@ -340,6 +385,11 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/mobtimizations.pw.toml"
+hash = "860db3da30e2e3d9fcec655d38704be88b593b85c7770fa76c30de6a537691d7"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
@@ -347,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/narrusyeetus-no-error.pw.toml"
 hash = "28b4948ace6efc4dd678c7aebc8c67464721959abb9df088be23bdbbfb6c69eb"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
@@ -390,6 +445,11 @@ hash = "156495b9b9cfa4471e61098866483138f4a9cfc5d4ad853bba0e502f96d38048"
 metafile = true
 
 [[files]]
+file = "mods/orb-of-origin-plus.pw.toml"
+hash = "7f936aa1274e92c5c1f7120aea5b17ca48ccc5080d9ca3f0260b56073f9188df"
+metafile = true
+
+[[files]]
 file = "mods/origins-classes.pw.toml"
 hash = "f5065276e57a561d2701826d93e120a28fd9a60002c2714e5a53d3313646efba"
 metafile = true
@@ -410,6 +470,11 @@ hash = "b8696d15eecc76e25e49c160fd0a004b365de785fa2fa914313f0e7e2fc94448"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "fb1c9c7a93970c008361d93a49065c7ceb970bd4667dc969a13d4838e06f6773"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "5dbd17b4eb5a496d819cc5d02c683733735bbdc30cd3cc79d3ad1873a9ec67e4"
 metafile = true
@@ -420,8 +485,28 @@ hash = "7c5503b6195252b1b8286184e5683d5bc3d8905a58f10941180d0f805d9ee395"
 metafile = true
 
 [[files]]
+file = "mods/railoptimization.pw.toml"
+hash = "94298bd5b9d44a0707e58310c8e84b8c610f9ea758d302623690294b4c307403"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
+metafile = true
+
+[[files]]
+file = "mods/refined-advancements.pw.toml"
+hash = "d9ac6c091693114c089844183b8ad0be3df189a22a9c703abbc21cf2a36b4ccc"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "2a3952446f1c8e8e9be2f79676510faeb92c130c10ff74f2d8d2cf89db55708b"
 metafile = true
 
 [[files]]
@@ -432,6 +517,11 @@ metafile = true
 [[files]]
 file = "mods/shut-up-gl-error.pw.toml"
 hash = "20b3e6e3ecbb6ea0f2fd31f166a3cef23c0124f376c25fdc6613b3f674347ff3"
+metafile = true
+
+[[files]]
+file = "mods/signed-paintings.pw.toml"
+hash = "8e2c4dadf48526f06bd470fd7d8e99de3ae061d9d7dcb9936579307c9055baa1"
 metafile = true
 
 [[files]]
@@ -452,6 +542,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
 
 [[files]]
