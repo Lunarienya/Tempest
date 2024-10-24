@@ -316,6 +316,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/narrusyeetus-no-error.pw.toml"
+hash = "28b4948ace6efc4dd678c7aebc8c67464721959abb9df088be23bdbbfb6c69eb"
+metafile = true
+
+[[files]]
 file = "mods/no-end.pw.toml"
 hash = "8df487c2166cc92e9f1bfb9ddc2e397325c8350d8d4cd3caa60246bdebc7c365"
 metafile = true
