@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/craftpresence.json"
+hash = "97548efc8681b6dd128bfa1aa8c40afe725fcd55678e1e90a8c16636d5969087"
+
+[[files]]
+file = "config/desiredservers/desiredservers.json"
+hash = "14d9516ef54a7998849b80e2759fe3c21ab7c2257bd4338a1983728aae351c3c"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "1384b46885514680288793cdfa6cc39768aa2a87d6d1c66bec7c5aa9ae54b7ee"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "cda3ee9acd610baf9590f52ed3b2d27ddd01ac925044840ae4e140c07d3466db"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "2a9a9a0a30891bb7fce3f8a0165367fe93fc597f58e87d345cb4e938a963a485"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "00318827d72a18aedaf7979e4f7938a0e6a2c35fc703906cad64ea6b38cb7200"
 metafile = true
@@ -251,8 +275,8 @@ hash = "56725eac541eb27d7e13efc17b24025ce8139c2a70b000a528eb30093149cdda"
 metafile = true
 
 [[files]]
-file = "mods/infinite-trading.pw.toml"
-hash = "4f06d63f49588b19d24c3e0e874f2022faa74316fe48c6ee275a5118556cf597"
+file = "mods/interloper.pw.toml"
+hash = "fb0dfbfff9382524e41e0d79d46197fc3f5095e54a8b41b75b0e1887093e26e0"
 metafile = true
 
 [[files]]
@@ -273,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
+file = "mods/lifesteal-mian.pw.toml"
+hash = "6d5edf9e37d4f7ebd71c00516a4bfd8ca698580a7d0fc58bbd34888be177b3d4"
 metafile = true
 
 [[files]]
@@ -358,6 +387,21 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "156495b9b9cfa4471e61098866483138f4a9cfc5d4ad853bba0e502f96d38048"
+metafile = true
+
+[[files]]
+file = "mods/origins-classes.pw.toml"
+hash = "f5065276e57a561d2701826d93e120a28fd9a60002c2714e5a53d3313646efba"
+metafile = true
+
+[[files]]
+file = "mods/origins-kitsune.pw.toml"
+hash = "9c4f50d3ae1bafa282020f22cc40ea2d72daa7d77268d5971d0d340539f36e7b"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
 metafile = true
 
 [[files]]
