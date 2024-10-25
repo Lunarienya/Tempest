@@ -130,6 +130,11 @@ hash = "007aa1d77ed4acb655c583b31a1acccc8d8b4dfbf66ecd81c80dc073798686c4"
 metafile = true
 
 [[files]]
+file = "mods/combatlog.pw.toml"
+hash = "7bda6abf98f33be0f10b219deba36e3b7af97c2a74068c20636b0974a9c08cb7"
+metafile = true
+
+[[files]]
 file = "mods/connectiblechains.pw.toml"
 hash = "24ceeef91ed4244c63cf0dd4d34fea6b64f13de330ab86ca4929808ee4d2c01f"
 metafile = true
