@@ -5,6 +5,10 @@ file = "config/chatpatches.json"
 hash = "6fe7157721d9a314c04a5a1ffd9b15e9f337799780419fe9ce88e79c49ef6884"
 
 [[files]]
+file = "config/craftpresence.json"
+hash = "69b25b5b4aa3d51ac1f6179162520997163cb8188999a886905ccaaa805a8966"
+
+[[files]]
 file = "config/lifesteal-common.toml"
 hash = "bd5417df6519dd8a37e000a8efbcc0d9f02743091fa25a397bbe5e614a70cf7a"
 
@@ -613,3 +617,7 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "f8ec1c9402adb97c16da887f38d6edf7bb0be77894f3d494cafbe3a8aef40f32"
+
+[[files]]
+file = "servers.dat"
+hash = "e265929201558e906ce3e41c7aac2ab8c9881837275b0159fe9d22c2ab56273c"
