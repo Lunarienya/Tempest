@@ -46,6 +46,11 @@ hash = "1afa3d4cc64e64899fd0c113936d8bef92e5a99aab3d42b14269503582fd38a8"
 metafile = true
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "73ebcbd7b54f74f1593d2968fd90252f81c839ebc64392d8d10e5b16f0632d82"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "0d8b0146b74be36014bf5d76487703f4aa13b24416a2ac79fc300d90c5754206"
 metafile = true
@@ -66,6 +71,16 @@ hash = "af482cdaf7c5d9d5481e7cd789d98ebc17f47e4565a28af6c6365aef896d1404"
 metafile = true
 
 [[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "38d7cebcea97d7a19586604fabb70f43327c1405523abce63d58eef5e950438f"
+metafile = true
+
+[[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "cb66bc22bd01274e05c601d022ab843302e92d15b615a03468055bfc47e7395f"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "44466175c0fa140dd237a9235a3ee6ff53e482c4bb40ec3a9c56b184bd76e45f"
 metafile = true
@@ -76,6 +91,21 @@ hash = "e4c023a7c604991d61ea69d41c630357b4b11f5931129f4748244ea88ba5f69a"
 metafile = true
 
 [[files]]
+file = "mods/blossomback.pw.toml"
+hash = "112371d202daf1dedc323f6a70fc34943ef1490e6f2db5c71c16ecd2807cf22f"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "63d410353fd1c76ac293cf00299d1b14a0dc3ec777c5e29a16f7eaad60557091"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "3bcd4dec9cdc1f19bd57dc030235bd3c34563334a1929fa3279a08d3b0768deb"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "c455d55e736f90f6a09701594dee2342e91c77b7f230f0ff73090d7ead339629"
 metafile = true
@@ -83,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "bbc3071f273013c97c80b45c5228d8a8a55bce7cf7cf39092b8a2c62e152d4b1"
+metafile = true
+
+[[files]]
+file = "mods/bottle-your-xp.pw.toml"
+hash = "4c4c1c588269cecdfc4f753c5b054d5c92e5c28ca8715aa5b5bf70e27a35f743"
 metafile = true
 
 [[files]]
@@ -133,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/collision-fix.pw.toml"
 hash = "f51cfa0397287504a6594fe7f3f2be1162d5bc763594b1701925f046f24cd8d2"
+metafile = true
+
+[[files]]
+file = "mods/combatlock.pw.toml"
+hash = "dd0c9952ed1816dba10b7321411080c477b778dc8548d1c26bc3045393cf62ec"
 metafile = true
 
 [[files]]
@@ -258,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "2645fbb800b5c53e3e8937489dcf036b9c40cfdc3d8674d6231a5f0fd0a7aeff"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "dd2cbd40d697bc4f5330890f6cacd0adedc2317ce090c9f1064c05c7a739b33d"
 metafile = true
 
 [[files]]
@@ -396,6 +441,11 @@ hash = "601b4cdbd392d5abae9144ea83c4b93a362f33b60411a32059feeb73d12fe029"
 metafile = true
 
 [[files]]
+file = "mods/offline-player-teleport.pw.toml"
+hash = "947a73f9da83d1e207d75cccc46ee5e3ca5348a098298422ecfb0f16e346ecf5"
+metafile = true
+
+[[files]]
 file = "mods/paper-doll.pw.toml"
 hash = "28dd72dd8ddc0639784c09540fac2eb861dc9fd2150a0fe432c53a83b9f1ac90"
 metafile = true
@@ -426,8 +476,18 @@ hash = "9a436a8878aa710fe067b238b0073eb4b86538dfc7a22179be18549137114db7"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c7f88729b083bfc0200b9f39a6a27f1d7824c9f5ee145ed538d32ebf38d1b678"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "c456b8055d6c39599b74d1ef518cd83892b3055bd283fc0aae78cf6899f5f146"
+metafile = true
+
+[[files]]
+file = "mods/secret-spectator.pw.toml"
+hash = "422ef7161d5f5dc34a6153f8abde62dba5b425326f3c323d5b8f9a6b8caa2b33"
 metafile = true
 
 [[files]]

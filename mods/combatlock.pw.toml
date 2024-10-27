@@ -1,0 +1,13 @@
+name = "CombatLock"
+filename = "CombatLock-v2.0-1.21-HOTFIX.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IAgJZ4W2/versions/tj97MF3B/CombatLock-v2.0-1.21-HOTFIX.jar"
+hash-format = "sha1"
+hash = "e2bdadf2178a67b8eab9f9208c16efb78cbfcc52"
+
+[update]
+[update.modrinth]
+mod-id = "IAgJZ4W2"
+version = "tj97MF3B"
