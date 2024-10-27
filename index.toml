@@ -171,8 +171,8 @@ hash = "f51cfa0397287504a6594fe7f3f2be1162d5bc763594b1701925f046f24cd8d2"
 metafile = true
 
 [[files]]
-file = "mods/combatlock.pw.toml"
-hash = "dd0c9952ed1816dba10b7321411080c477b778dc8548d1c26bc3045393cf62ec"
+file = "mods/combat-escape.pw.toml"
+hash = "38fb2e68a18a5c8b14337f52a13ec0a10a9cbf2f4397b268c217b01a4bc7b6d2"
 metafile = true
 
 [[files]]
