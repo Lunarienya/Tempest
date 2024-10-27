@@ -1,13 +1,13 @@
 name = "Refined Advancements"
-filename = "refined-advancements-1.0.3d.jar"
+filename = "refined-advancements-1.0.4a.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/60PfR426/versions/GCUduxEl/refined-advancements-1.0.3d.jar"
+url = "https://cdn.modrinth.com/data/60PfR426/versions/lvoz36w2/refined-advancements-1.0.4a.jar"
 hash-format = "sha1"
-hash = "0a683e13498211fac74ca138ea75330cd525a06a"
+hash = "e0fc9abd7eed636e20e0cec3f4c307e0435e9254"
 
 [update]
 [update.modrinth]
 mod-id = "60PfR426"
-version = "GCUduxEl"
+version = "lvoz36w2"

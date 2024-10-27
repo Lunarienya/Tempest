@@ -1,13 +1,13 @@
 name = "Tree Harvester"
-filename = "treeharvester-1.20.1-9.1.jar"
+filename = "treeharvester-1.21.1-9.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/abooMhox/versions/eeRIweZ0/treeharvester-1.20.1-9.1.jar"
+url = "https://cdn.modrinth.com/data/abooMhox/versions/mmgoH9qo/treeharvester-1.21.1-9.1.jar"
 hash-format = "sha1"
-hash = "89e413414a4ecf53f91124559379217282c92e32"
+hash = "f5f2fc3014ba1f5f2e6a1bf640e26cdafb8ee8fa"
 
 [update]
 [update.modrinth]
 mod-id = "abooMhox"
-version = "eeRIweZ0"
+version = "mmgoH9qo"

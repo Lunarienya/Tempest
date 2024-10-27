@@ -1,0 +1,13 @@
+name = "Stfu"
+filename = "Stfu-1.2.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rg9WdvvR/versions/yy1PGnrK/Stfu-1.2.3.jar"
+hash-format = "sha1"
+hash = "a22ffc7cbb8a4d579b83c8868023113ec88f9343"
+
+[update]
+[update.modrinth]
+mod-id = "Rg9WdvvR"
+version = "yy1PGnrK"
