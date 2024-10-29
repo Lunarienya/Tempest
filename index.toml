@@ -175,11 +175,6 @@ hash = "f51cfa0397287504a6594fe7f3f2be1162d5bc763594b1701925f046f24cd8d2"
 metafile = true
 
 [[files]]
-file = "mods/combat-escape.pw.toml"
-hash = "38fb2e68a18a5c8b14337f52a13ec0a10a9cbf2f4397b268c217b01a4bc7b6d2"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
 metafile = true
