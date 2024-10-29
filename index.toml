@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bottleyourxp.json5"
+hash = "39ed26ffaa2cb6cb0e061dad5e31b6b22153d450dbce86dc6bf5652efb075308"
+
+[[files]]
 file = "config/chatpatches.json"
 hash = "6fe7157721d9a314c04a5a1ffd9b15e9f337799780419fe9ce88e79c49ef6884"
 
 [[files]]
 file = "config/craftpresence.json"
 hash = "69b25b5b4aa3d51ac1f6179162520997163cb8188999a886905ccaaa805a8966"
+
+[[files]]
+file = "config/ender-pearl-cooldown.json"
+hash = "0e4f905dd9599c05aa364d017194d8c636de7f4e7c65587bf4d404bdd1c80209"
 
 [[files]]
 file = "config/lifesteal-common.toml"
@@ -47,11 +55,6 @@ hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "1afa3d4cc64e64899fd0c113936d8bef92e5a99aab3d42b14269503582fd38a8"
-metafile = true
-
-[[files]]
-file = "mods/adorn.pw.toml"
-hash = "73ebcbd7b54f74f1593d2968fd90252f81c839ebc64392d8d10e5b16f0632d82"
 metafile = true
 
 [[files]]
@@ -312,11 +315,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "2645fbb800b5c53e3e8937489dcf036b9c40cfdc3d8674d6231a5f0fd0a7aeff"
-metafile = true
-
-[[files]]
-file = "mods/handcrafted.pw.toml"
-hash = "dd2cbd40d697bc4f5330890f6cacd0adedc2317ce090c9f1064c05c7a739b33d"
 metafile = true
 
 [[files]]
