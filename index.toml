@@ -615,6 +615,11 @@ hash = "b18ddc19b0a70f0ab2b4e652210d887d0c28b5192ea249cb0e8d0115373d8650"
 metafile = true
 
 [[files]]
+file = "mods/zoomify.pw.toml"
+hash = "2ae5b0fa11f7c2ea80631e7dd0ca15c4f94349415671cd403cfc8a59fcda1bdd"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "f8ec1c9402adb97c16da887f38d6edf7bb0be77894f3d494cafbe3a8aef40f32"
 
