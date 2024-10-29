@@ -495,6 +495,11 @@ hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
 metafile = true
 
 [[files]]
+file = "mods/preferred-gamerules.pw.toml"
+hash = "2675b9d59f60f35f4576f24c49d93e319356cca48fcbea1460f489f4711019cf"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "fd1b5dd6bffc8bbf5dcd65bb5b61458ec43eccbbbd7a7fa68a98c56f132a845c"
 metafile = true
