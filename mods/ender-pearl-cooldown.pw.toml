@@ -1,0 +1,13 @@
+name = "Ender Pearl Cooldown"
+filename = "ender-pearl-cooldown-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qn7DW7rM/versions/rQJfVnOC/ender-pearl-cooldown-1.0.0.jar"
+hash-format = "sha1"
+hash = "5fb86eb08cd5d77bbc522432b01552b6f85694cf"
+
+[update]
+[update.modrinth]
+mod-id = "qn7DW7rM"
+version = "rQJfVnOC"

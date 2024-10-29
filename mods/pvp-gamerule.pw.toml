@@ -1,0 +1,13 @@
+name = "PvP Gamerule"
+filename = "pvpgamerule-0.0.2+1.20-21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/uBxNrzyA/versions/sgh4MiV9/pvpgamerule-0.0.2%2B1.20-21.1.jar"
+hash-format = "sha1"
+hash = "3b888c0a10ac4891cae6d05473e3fed0ec5691c2"
+
+[update]
+[update.modrinth]
+mod-id = "uBxNrzyA"
+version = "sgh4MiV9"
