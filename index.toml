@@ -235,6 +235,11 @@ hash = "bd02cc1b0ee4feea5c920bc2b3858ddb3c3d98ece259507169956fdabb54b759"
 metafile = true
 
 [[files]]
+file = "mods/edgeless-chat-screen.pw.toml"
+hash = "d708299d6e8f024c4484cf5fac52581532e8f6c80679dc119faf866714163218"
+metafile = true
+
+[[files]]
 file = "mods/elytra-drag.pw.toml"
 hash = "8998b0a4dfd6520d0bb0cd1058e1c8e17f3fb418de5abb29d3da798361b31ddd"
 metafile = true
