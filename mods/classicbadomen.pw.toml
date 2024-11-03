@@ -1,0 +1,13 @@
+name = "Classic Bad Omen"
+filename = "classicbadomen-3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KYVi0JEk/versions/9P1vUmvG/classicbadomen-3.1.jar"
+hash-format = "sha1"
+hash = "b8c17ed1a23c3c498129c0c5bb550f90f7729a95"
+
+[update]
+[update.modrinth]
+mod-id = "KYVi0JEk"
+version = "9P1vUmvG"

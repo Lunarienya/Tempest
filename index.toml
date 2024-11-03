@@ -153,6 +153,11 @@ hash = "a6096b3cc740027d6e192e8def745117f95ef73041187135522aebf8da0ea11d"
 metafile = true
 
 [[files]]
+file = "mods/classicbadomen.pw.toml"
+hash = "3ea2c91afce39d463206444256605f015328cffa19bd3e6638d2625f7e1d3f19"
+metafile = true
+
+[[files]]
 file = "mods/clean-f3.pw.toml"
 hash = "8fdc8ba4831782847c56e4a1b04811147d6f1bc153b9cb84d84bee377468f20a"
 metafile = true
