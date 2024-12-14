@@ -358,6 +358,11 @@ hash = "e16a6442391c1989dccdcbe100e13063a043caef70b13ab4e37a11a7861cb497"
 metafile = true
 
 [[files]]
+file = "mods/item-components.pw.toml"
+hash = "e44e00947746132b2b3f6917f521e4260ba09f88f85110afac961d208d7ef19f"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "6a423798bbc599b2078035540d9edc0d425dac7a65eb80e51a2708fb9100cc60"
 metafile = true
