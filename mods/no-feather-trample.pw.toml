@@ -1,13 +1,13 @@
 name = "No Feather Trample"
-filename = "nofeathertrample-1.21.1-1.3.jar"
+filename = "nofeathertrample-1.21.4-1.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/VmGOLJeH/versions/PBWeN39J/nofeathertrample-1.21.1-1.3.jar"
+url = "https://cdn.modrinth.com/data/VmGOLJeH/versions/XWeFR4OA/nofeathertrample-1.21.4-1.3.jar"
 hash-format = "sha1"
-hash = "4b534ac2922b0b74e767181eccb0d8f9e5ea1d33"
+hash = "7d45af952cc7fac0678c8b135e76668a64792212"
 
 [update]
 [update.modrinth]
 mod-id = "VmGOLJeH"
-version = "PBWeN39J"
+version = "XWeFR4OA"
