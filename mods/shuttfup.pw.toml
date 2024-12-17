@@ -1,13 +1,13 @@
 name = "Stfu"
-filename = "Stfu-1.3.1.jar"
+filename = "Stfu-1.2.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Rg9WdvvR/versions/DCOioCS3/Stfu-1.3.1.jar"
+url = "https://cdn.modrinth.com/data/Rg9WdvvR/versions/ya4irQ3l/Stfu-1.2.3.jar"
 hash-format = "sha1"
-hash = "664c439c578b58b7d1c9815c6878ab34389ce81c"
+hash = "a1e2abf363aff47c5072f50f1f25a4bfcdc15a76"
 
 [update]
 [update.modrinth]
 mod-id = "Rg9WdvvR"
-version = "DCOioCS3"
+version = "ya4irQ3l"

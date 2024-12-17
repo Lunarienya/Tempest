@@ -1,13 +1,13 @@
 name = "Item Components"
-filename = "item-components-1.1+1.21.jar"
+filename = "item-components-1.2+1.21.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/wOl8aLro/versions/BXT6xC81/item-components-1.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/wOl8aLro/versions/JS619Aua/item-components-1.2%2B1.21.2.jar"
 hash-format = "sha1"
-hash = "d8dc2f5bfc64cd0d0e6bdebb7a5f9db1c9d995d2"
+hash = "397fd7675d086cb5eb95c3c063309f11445442ba"
 
 [update]
 [update.modrinth]
 mod-id = "wOl8aLro"
-version = "BXT6xC81"
+version = "JS619Aua"
