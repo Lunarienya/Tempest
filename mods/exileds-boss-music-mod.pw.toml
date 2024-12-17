@@ -1,13 +1,13 @@
 name = "Boss Music Mod/Datapack"
-filename = "Boss Music Mod 1.21.x v1.2.1.jar"
+filename = "Boss Music Mod 1.21.x v1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AE4o3Hmb/versions/jBpzSz5J/Boss%20Music%20Mod%201.21.x%20v1.2.1.jar"
+url = "https://cdn.modrinth.com/data/AE4o3Hmb/versions/9H8bAhQ4/Boss%20Music%20Mod%201.21.x%20v1.2.0.jar"
 hash-format = "sha1"
-hash = "9e6700fa5759c734af13576279f6292e22fa2ca5"
+hash = "9e081c5b371af38a369192849f58c38c852fad61"
 
 [update]
 [update.modrinth]
 mod-id = "AE4o3Hmb"
-version = "jBpzSz5J"
+version = "9H8bAhQ4"
