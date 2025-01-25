@@ -238,11 +238,6 @@ hash = "885f45bf2ea19246852578532b2f413b015edaa8512d28a215383bf0d9656199"
 metafile = true
 
 [[files]]
-file = "mods/dead-simple-bags.pw.toml"
-hash = "c8ed42428e06197ad085cdfd213d2b620458ef1c9f6c8efd06889a70abfa1e33"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "24025ba601cfb851ede832821ab4d26dfe168db61f3c63e0b3fd2820176fb40c"
 metafile = true
@@ -480,6 +475,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/mochila.pw.toml"
+hash = "2c5de4f358e9a47d7dcbaef4a248059f0c9e13705a9448299c4c7b6bc9295cbd"
 metafile = true
 
 [[files]]
