@@ -428,6 +428,11 @@ hash = "6bc9e4983c242007a28686823a34a4d34e9ae3953645d415016b07735402ae3d"
 metafile = true
 
 [[files]]
+file = "mods/leash-villager.pw.toml"
+hash = "a6f9fe0b7b272a1b7465f4ceed6c1741e2da444f166d17bbb5531afa7d856827"
+metafile = true
+
+[[files]]
 file = "mods/lifesteal-mian.pw.toml"
 hash = "00cc99042d19bf8bca2cae20bc75bc361af394e5097b09005ea56e75fcdbb7be"
 metafile = true
