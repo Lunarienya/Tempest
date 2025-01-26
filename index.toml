@@ -88,6 +88,11 @@ hash = "ab72b447ed976a93ce1124524295ab8a469438b741bdc224aefb1ad7d881e0cf"
 metafile = true
 
 [[files]]
+file = "mods/audaki-cart-engine.pw.toml"
+hash = "19ccda8cba6db88a97be7ab4b242b0d28784bb1c90602edeffabead7c84946e7"
+metafile = true
+
+[[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "38d7cebcea97d7a19586604fabb70f43327c1405523abce63d58eef5e950438f"
 metafile = true
@@ -435,6 +440,11 @@ metafile = true
 [[files]]
 file = "mods/lifesteal-mian.pw.toml"
 hash = "00cc99042d19bf8bca2cae20bc75bc361af394e5097b09005ea56e75fcdbb7be"
+metafile = true
+
+[[files]]
+file = "mods/lights.pw.toml"
+hash = "fb3539545687bf52d389bce47c274ceab7d85f03a4d60005807d0c86d4fe19c2"
 metafile = true
 
 [[files]]
