@@ -108,6 +108,11 @@ hash = "64e4079bac756f780176764a029522a909d8cfb2788de24e4dafe62130a07ff4"
 metafile = true
 
 [[files]]
+file = "mods/basic-storage.pw.toml"
+hash = "dea0ac0c228c451b66be18155aecc05dc65bc66aa368ce1ba6523c77f29a3bd1"
+metafile = true
+
+[[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "cb66bc22bd01274e05c601d022ab843302e92d15b615a03468055bfc47e7395f"
 metafile = true
@@ -668,6 +673,11 @@ hash = "4b12aa994dd4f60c73afcaf836685ef69eece9a85bb12fa0b38e0447eafd3c24"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "9c9f064a1a562758b41e13ec28c27197b00401533a123e7e414e4a15cfe626bb"
+metafile = true
+
+[[files]]
 file = "mods/smooth-scroll.pw.toml"
 hash = "7110088eea18a400f96e41d126f7b1a949e426bb64f7a5d9b64e9ece2eee2e6b"
 metafile = true
@@ -693,11 +703,6 @@ hash = "83897b6eb5994fab60b7f9831fd5bc055991b10855ee385f624db02375d54325"
 metafile = true
 
 [[files]]
-file = "mods/sswaystones.pw.toml"
-hash = "1a7e3199a1e72bcd22564cb66043e91bf476278a31a34fe4169d296472d8d939"
-metafile = true
-
-[[files]]
 file = "mods/startinv.pw.toml"
 hash = "ec78e22c7bac80531ef1dd5bab3f7fdd034aca373d4dc0632d9754b0ddc63280"
 metafile = true
@@ -720,6 +725,11 @@ metafile = true
 [[files]]
 file = "mods/toggle-item-frames.pw.toml"
 hash = "396f20ebd7de85729585c156a08356282addd011d04a13ca6e130dfe82f0e7e2"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "23a24b99076e81862f2a0efcf7ecc211aacb7256109a3f5c3013cbcbb60a5146"
 metafile = true
 
 [[files]]
@@ -755,6 +765,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "5909f21a6e8c5ffc7a935fa6a67cf771190ba82ac96dd11b23fd0f6ffb7b3218"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "e043e0b1b11a3cb85635c39dc10a77dbfbc609468823997a4fdaeb2c62ad3105"
 metafile = true
 
 [[files]]
