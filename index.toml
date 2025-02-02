@@ -178,6 +178,11 @@ hash = "d565971a2d0ef7546b239a7199e0e2d315a712df5fa4ebcd280764f7da6dc04c"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "a908f7e0bd1410c3e1b10ec0a980c52a2cea1b28afe61b615b101cdbf1baec48"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true
@@ -713,6 +718,16 @@ hash = "ec78e22c7bac80531ef1dd5bab3f7fdd034aca373d4dc0632d9754b0ddc63280"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "a694429e03e20de9d94ddfe3964321ad981c16008f449789ee9ebb1c5c4470bc"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "c5794d00e2b0cd0952f313684c71e65e0aa5513ac1368a847c2f0b3ae072ca88"
+metafile = true
+
+[[files]]
 file = "mods/suppressopengl1280.pw.toml"
 hash = "f36c3d7a610de807483dc2766611d2c28b361aa8c2314e70cb3514228d03c790"
 metafile = true
@@ -738,6 +753,11 @@ hash = "23a24b99076e81862f2a0efcf7ecc211aacb7256109a3f5c3013cbcbb60a5146"
 metafile = true
 
 [[files]]
+file = "mods/toms-trading-network.pw.toml"
+hash = "c96f7064cae37e97ce7c689931a775f29d2291939c9de94577a1a28dac6c7923"
+metafile = true
+
+[[files]]
 file = "mods/trafficcraft.pw.toml"
 hash = "5590f8d48ee6f9d50e0bb4b635b2d380c3aa520b297630196f6fa40dda582007"
 metafile = true
@@ -745,6 +765,11 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "d4b0cf061e4ff370e5bd22d395a437af7cea6cb09f71cc4fbf9337dc5432220a"
+metafile = true
+
+[[files]]
+file = "mods/trees-make-sound.pw.toml"
+hash = "d2578015cdd9d6c247e5b932c1a22ec7ac507c3b0e9396475b4868d1dfc07623"
 metafile = true
 
 [[files]]
