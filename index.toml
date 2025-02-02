@@ -608,6 +608,11 @@ hash = "ed6f93054cb724ab04ea898d64efff07a594050cb4acd5a512dae74dc853c013"
 metafile = true
 
 [[files]]
+file = "mods/realistic-farmland.pw.toml"
+hash = "0e38191ca321c0d617f4645740225d658c07b34f6022915e05d776b066351c7c"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "1312b083bd8ffaecc4e5ca03f968f1a1080832e4d89386455acc17ae69b1bfde"
 metafile = true
