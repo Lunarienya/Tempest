@@ -638,6 +638,11 @@ hash = "a253dfa07cc6af81eb3e4bffae75e866f456dfdcf7077ea96c729cdf1dd98080"
 metafile = true
 
 [[files]]
+file = "mods/sandstone-recycling.pw.toml"
+hash = "e9e278eb22cb7ddf942b33932cb920067accb21be7bb33f620de5c2dcc74b8d9"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "c456b8055d6c39599b74d1ef518cd83892b3055bd283fc0aae78cf6899f5f146"
 metafile = true
@@ -795,11 +800,6 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "5909f21a6e8c5ffc7a935fa6a67cf771190ba82ac96dd11b23fd0f6ffb7b3218"
-metafile = true
-
-[[files]]
-file = "mods/waystones.pw.toml"
-hash = "e043e0b1b11a3cb85635c39dc10a77dbfbc609468823997a4fdaeb2c62ad3105"
 metafile = true
 
 [[files]]
