@@ -523,6 +523,11 @@ hash = "e978d074830467c46b20646dee60157c67cfc9b2e4f188d0ad6eba27dce3aaa4"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "f85bbc82f8801b099dc53b89d5b52f9b4b9f364b746290c26f6e5447aaaa1db7"
+metafile = true
+
+[[files]]
 file = "mods/netherite-extras.pw.toml"
 hash = "b5b6fdec6d7b8c93529cb0bb439361d1c795a27cd36706d3d7d498c283f763d1"
 metafile = true
