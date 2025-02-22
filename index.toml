@@ -93,6 +93,16 @@ hash = "19ccda8cba6db88a97be7ab4b242b0d28784bb1c90602edeffabead7c84946e7"
 metafile = true
 
 [[files]]
+file = "mods/autonomous-minecarts.pw.toml"
+hash = "057f327c53288120253c06323d4d66419785680c8e823d4b30be7f4296dbc222"
+metafile = true
+
+[[files]]
+file = "mods/aviator-dreams.pw.toml"
+hash = "cbac23d36225a4ac55001d879209346b85e178e4f78b6594975adba6a198d674"
+metafile = true
+
+[[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "38d7cebcea97d7a19586604fabb70f43327c1405523abce63d58eef5e950438f"
 metafile = true
@@ -125,6 +135,11 @@ metafile = true
 [[files]]
 file = "mods/better-f1-reborn.pw.toml"
 hash = "e4c023a7c604991d61ea69d41c630357b4b11f5931129f4748244ea88ba5f69a"
+metafile = true
+
+[[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "3828eaffdb12d99c02301bff0dc175f822ed92fab567b3ac8e203d423abf9c7a"
 metafile = true
 
 [[files]]
@@ -383,6 +398,11 @@ hash = "30c2e538242d8c83b23f1c0ca1eed38f8734fa04ee706696910bd1715a3d1da4"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "9f7f93ea1b954257d03c25b422b55f467a16b5df4a645f02a9e101858e9daf86"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
@@ -490,6 +510,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "03075a32803d3cd0e574a043156599231d7d01661179b1c4c1a527ea7a1c539d"
+metafile = true
+
+[[files]]
+file = "mods/minecart-turning.pw.toml"
+hash = "ea98203b12b6bf900cce3443a4fc0b7b87cb454254d7bf68a5aa22ee4f40f550"
 metafile = true
 
 [[files]]
