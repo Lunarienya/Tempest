@@ -98,11 +98,6 @@ hash = "057f327c53288120253c06323d4d66419785680c8e823d4b30be7f4296dbc222"
 metafile = true
 
 [[files]]
-file = "mods/aviator-dreams.pw.toml"
-hash = "cbac23d36225a4ac55001d879209346b85e178e4f78b6594975adba6a198d674"
-metafile = true
-
-[[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "38d7cebcea97d7a19586604fabb70f43327c1405523abce63d58eef5e950438f"
 metafile = true
