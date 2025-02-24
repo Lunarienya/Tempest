@@ -58,11 +58,6 @@ hash = "dd73942366cfb65e4511422f5921d878ab9aa0e3435a4d5d0ddbf38a1c911f22"
 metafile = true
 
 [[files]]
-file = "mods/advancement-plaques.pw.toml"
-hash = "eadfea4df65915d3246819fe3a5f06a16ebcbfe08bf7195dcba42347345a5234"
-metafile = true
-
-[[files]]
 file = "mods/almanac-lib.pw.toml"
 hash = "605ef8bb0533a72740dc3b5346908567dd2ce0539fe8a39e7dbcc7959e700797"
 metafile = true
@@ -544,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "f85bbc82f8801b099dc53b89d5b52f9b4b9f364b746290c26f6e5447aaaa1db7"
+hash = "56e454cc1b56302925f29185d26d59cea60a9e403b99b3634c37a505381d712f"
 metafile = true
 
 [[files]]
@@ -588,16 +583,6 @@ hash = "85984b4af80646c0d92388512daeb1ef5404ec76b83fd0958103b3b38e98fff1"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "1c9ed038adfafbf4374dee39d3243de62185405f298b2ae120d2ef3e4ca6ce07"
-metafile = true
-
-[[files]]
-file = "mods/nullscape.pw.toml"
-hash = "ba27bd9b6dac77d7c57a998bd1764172cc9ce6c4356720632733a795d899f4db"
-metafile = true
-
-[[files]]
 file = "mods/offline-player-teleport.pw.toml"
 hash = "947a73f9da83d1e207d75cccc46ee5e3ca5348a098298422ecfb0f16e346ecf5"
 metafile = true
@@ -605,11 +590,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "4016499977a50addf35b81447a7e2bfbe8d1cebcaf341edcbd7bb5ac83f4ed3a"
-metafile = true
-
-[[files]]
-file = "mods/paper-doll.pw.toml"
-hash = "28dd72dd8ddc0639784c09540fac2eb861dc9fd2150a0fe432c53a83b9f1ac90"
 metafile = true
 
 [[files]]
@@ -650,11 +630,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c7f88729b083bfc0200b9f39a6a27f1d7824c9f5ee145ed538d32ebf38d1b678"
-metafile = true
-
-[[files]]
-file = "mods/saddle.pw.toml"
-hash = "a253dfa07cc6af81eb3e4bffae75e866f456dfdcf7077ea96c729cdf1dd98080"
 metafile = true
 
 [[files]]
@@ -700,11 +675,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "9f89ac77b02de7492a5f2d0529418b53b5e084d8eae49dc7db7b644ce9116013"
-metafile = true
-
-[[files]]
-file = "mods/skippy-pearls.pw.toml"
-hash = "4b12aa994dd4f60c73afcaf836685ef69eece9a85bb12fa0b38e0447eafd3c24"
 metafile = true
 
 [[files]]
@@ -825,11 +795,6 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "4bff412d3a71ce97141788f987fb30f50a97b86896207de205d571bc78027e86"
-metafile = true
-
-[[files]]
-file = "mods/world-flags.pw.toml"
-hash = "54a13e9a5439232a7864ea76e48bcee281b72079f160720bdea4a41c8339ce3f"
 metafile = true
 
 [[files]]
