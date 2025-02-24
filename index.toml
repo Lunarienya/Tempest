@@ -168,6 +168,11 @@ hash = "f49788ebfa5a8f92b2fd4ab0a70d6c49acafff38b006134e4f20961f2dd2c260"
 metafile = true
 
 [[files]]
+file = "mods/celestial.pw.toml"
+hash = "ec7f34a60a81234e38805dba809f5ea6e44d685abddf066a35bc50eca80f7c34"
+metafile = true
+
+[[files]]
 file = "mods/charta.pw.toml"
 hash = "f55d07a7d681c955acce6175951a74373e4cd3329a4976e94042049ca15d68c8"
 metafile = true
@@ -842,5 +847,40 @@ file = "options.txt"
 hash = "f8ec1c9402adb97c16da887f38d6edf7bb0be77894f3d494cafbe3a8aef40f32"
 
 [[files]]
+file = "resourcepacks/dramatic-skys.pw.toml"
+hash = "0e86834de1ee3580ae5ab24737527532587dfffb3e7d23ae43bae8d735a64aec"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-on-fire.pw.toml"
+hash = "8c1435311c1a799fe6b8cfcfc59f91255ba900254ae01d1a20b744843f3855a3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/subtly-glowing-ores.pw.toml"
+hash = "1c5f3cbf0a6d928f815af4cb91084b9684486ee62c178e1b283a69d28bb65759"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 hash = "e265929201558e906ce3e41c7aac2ab8c9881837275b0159fe9d22c2ab56273c"
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "c196406aad1854cb3cc8d6906a52e75c9090fdb56731cb3408fc96b796c0c7cc"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "a6069e50f5f040ca578879297c8be5bb4affc4abeb83438bce51c801f938a564"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "c363c5cebefc114a08ca1bd415521554dc5d1ee7ef3843adad4846be548816ec"
+metafile = true
