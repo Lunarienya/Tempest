@@ -168,6 +168,11 @@ hash = "f49788ebfa5a8f92b2fd4ab0a70d6c49acafff38b006134e4f20961f2dd2c260"
 metafile = true
 
 [[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "1e6aae174985e3753af1f8d5ebaceec8b5451642d5be746f38a7fa668a629a23"
+metafile = true
+
+[[files]]
 file = "mods/celestial.pw.toml"
 hash = "ec7f34a60a81234e38805dba809f5ea6e44d685abddf066a35bc50eca80f7c34"
 metafile = true
@@ -180,6 +185,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "6e03394a05767d44c011a148cbd8f5879ef8551a17367fb516e9a6a80390178b"
+metafile = true
+
+[[files]]
+file = "mods/chatnotify.pw.toml"
+hash = "8c36fa243e6b9ba1394aa1eabbb5bbac21ae3f91a4de68c3d5e5382b93079cf9"
 metafile = true
 
 [[files]]
@@ -209,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/clean-f3.pw.toml"
-hash = "8fdc8ba4831782847c56e4a1b04811147d6f1bc153b9cb84d84bee377468f20a"
+hash = "84521ef11288d9db039cb5498aa6e87f079076b2a6dfd95c67c93069d261bf9e"
 metafile = true
 
 [[files]]
@@ -333,8 +343,18 @@ hash = "4e5258a9bfb48f5c005207e52f753cb99f657de0d27e0179efd6800b3e8dc5e2"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "3fd3ff18b39c291980d982f4d3e01751ed7a33648cd0c36bc00d07314bc351c6"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "85582a4b019912c5f590f4f51adede57d5a12e83dd5eb07e4d5a93d9b24cf821"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "b24e8c8a05c1fb22a1a40cb6c6b059b753851f5e829dbf970c372c55c0ec1d0c"
 metafile = true
 
 [[files]]
@@ -355,6 +375,11 @@ metafile = true
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "1f6c74d7140e368e85df87d1bdbb4b533052488dcee7e23ecc1f699dfd2efe82"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "78aef125e39c416f3c29f93687fd948f9dac9cedbf2c78dd2c9d0d93e2af7908"
 metafile = true
 
 [[files]]
@@ -380,6 +405,11 @@ metafile = true
 [[files]]
 file = "mods/healing-campfire.pw.toml"
 hash = "b0141f2876b76cb8db24959929e2643517e32615891a78484ed070363f32c8a7"
+metafile = true
+
+[[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "3d11f813bb93d0dada53443ea60291da449f7a35b5f4dfe9d8859f761d95fbba"
 metafile = true
 
 [[files]]
@@ -498,6 +528,11 @@ hash = "5b0bf2f3d62509f1ba5c3a137f62eedb557769f362496692d92d4bd84a395306"
 metafile = true
 
 [[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "79f0958db94d007778f03da083f9d75077978e3cc04b23f1081ecb2d6a4906b4"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "23612cdf2a5bb73b93f96c6280ea9213bcc193a9235c15d7a6da876b6604f8b7"
 metafile = true
@@ -598,6 +633,11 @@ hash = "4016499977a50addf35b81447a7e2bfbe8d1cebcaf341edcbd7bb5ac83f4ed3a"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "aacc7f91f460aa66ca6d47d521a41b1c176ceb9e3a4314604cfa1421325bd29b"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
 metafile = true
@@ -645,6 +685,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "c456b8055d6c39599b74d1ef518cd83892b3055bd283fc0aae78cf6899f5f146"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "293a3cbc12b5396b7a81cad3d8df85900f9b0f76460e0e1e17c6396d66d511c1"
 metafile = true
 
 [[files]]
@@ -847,6 +892,16 @@ file = "options.txt"
 hash = "f8ec1c9402adb97c16da887f38d6edf7bb0be77894f3d494cafbe3a8aef40f32"
 
 [[files]]
+file = "resourcepacks/better-lanterns.pw.toml"
+hash = "5b5eb0c335a6663fbe702fb0cb2faf8329bbd9dfcf8d86a2188faeeb83514409"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "3605969b0c53956a4e39112e2571e10a77ebc4c3acc512c199b148eb1aa07b57"
+metafile = true
+
+[[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
 hash = "0e86834de1ee3580ae5ab24737527532587dfffb3e7d23ae43bae8d735a64aec"
 metafile = true
@@ -859,6 +914,31 @@ metafile = true
 [[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
 hash = "8c1435311c1a799fe6b8cfcfc59f91255ba900254ae01d1a20b744843f3855a3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+hash = "208fd3dd1d0e99f0510cde9acaeda178a7b10f24cf2a3034e9f0aec7d2544b64"
+metafile = true
+
+[[files]]
+file = "resourcepacks/new-glowing-ores.pw.toml"
+hash = "81ce8f1f69186eac0d12561f04158462cc8d3b37f0a859ec50612a87f8326ed7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/no-pumpkin-blur.pw.toml"
+hash = "5491a7fd2737a57c78618fc7030b7cf12f1d372dfe91ba1ab76c0f9de903bf5a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/overdetailed-saplings.pw.toml"
+hash = "288b572bd9b0ae936290d83d39d7f1859b97ffd666218af789f3177f7d35f868"
+metafile = true
+
+[[files]]
+file = "resourcepacks/remodeled-doors.pw.toml"
+hash = "fd3263b81d7d297137b3cbe3df8824460efc1075f762c1262d03cdd9dbb5f6db"
 metafile = true
 
 [[files]]

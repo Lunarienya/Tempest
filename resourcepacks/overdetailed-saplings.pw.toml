@@ -1,0 +1,13 @@
+name = "Overdetailed Saplings"
+filename = "Overdetailed Saplings 1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oTdBvKq5/versions/Axwo7PKK/Overdetailed%20Saplings%201.21.zip"
+hash-format = "sha1"
+hash = "4999d5a87ce6d3b762a721036db5b48260fb2985"
+
+[update]
+[update.modrinth]
+mod-id = "oTdBvKq5"
+version = "Axwo7PKK"
