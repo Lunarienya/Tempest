@@ -133,6 +133,11 @@ hash = "3828eaffdb12d99c02301bff0dc175f822ed92fab567b3ac8e203d423abf9c7a"
 metafile = true
 
 [[files]]
+file = "mods/biome_particle_weather.pw.toml"
+hash = "3b01f0df210b3482db2cac0805fd4989df2fb64a1789382707bc1608394ff309"
+metafile = true
+
+[[files]]
 file = "mods/blossomback.pw.toml"
 hash = "112371d202daf1dedc323f6a70fc34943ef1490e6f2db5c71c16ecd2807cf22f"
 metafile = true
@@ -843,6 +848,11 @@ hash = "5909f21a6e8c5ffc7a935fa6a67cf771190ba82ac96dd11b23fd0f6ffb7b3218"
 metafile = true
 
 [[files]]
+file = "mods/weather-watch.pw.toml"
+hash = "f0082dd720660656576fcb0ee9bc9ab7b4a39d24e0f19558353272f8bfc05b20"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "4bff412d3a71ce97141788f987fb30f50a97b86896207de205d571bc78027e86"
 metafile = true
@@ -907,6 +917,11 @@ hash = "0e86834de1ee3580ae5ab24737527532587dfffb3e7d23ae43bae8d735a64aec"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "0106afd337cc315edf9dbb56e8207f1598ebf627355614ade043a616ba215b1c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
 metafile = true
@@ -937,13 +952,23 @@ hash = "288b572bd9b0ae936290d83d39d7f1859b97ffd666218af789f3177f7d35f868"
 metafile = true
 
 [[files]]
+file = "resourcepacks/pixel-consistency.pw.toml"
+hash = "1ff45a466ae0dfa6cac0759f7d0bd678f3bbdc6519bf2bed07e095397843dd5b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/remodeled-doors.pw.toml"
 hash = "fd3263b81d7d297137b3cbe3df8824460efc1075f762c1262d03cdd9dbb5f6db"
 metafile = true
 
 [[files]]
-file = "resourcepacks/subtly-glowing-ores.pw.toml"
-hash = "1c5f3cbf0a6d928f815af4cb91084b9684486ee62c178e1b283a69d28bb65759"
+file = "resourcepacks/stay-true.pw.toml"
+hash = "e53a1e480f2a8051cc6581a0d7323fb3b31c317562caa12c37eab9e952cc9300"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
+hash = "7ea46e054b0915e6534ffd28e718cba6edcece22c9829213d58eb3c12d0d36f7"
 metafile = true
 
 [[files]]

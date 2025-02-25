@@ -1,0 +1,13 @@
+name = "Pixel Consistency"
+filename = "pixel-consistency-b0.6.2-1.20-1.21.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/scjjjdC9/versions/YGPDrppa/pixel-consistency-b0.6.2-1.20-1.21.1.zip"
+hash-format = "sha1"
+hash = "4d9256b378686a36265e4456f00c9795ca183013"
+
+[update]
+[update.modrinth]
+mod-id = "scjjjdC9"
+version = "YGPDrppa"
