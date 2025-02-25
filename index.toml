@@ -912,7 +912,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f8ec1c9402adb97c16da887f38d6edf7bb0be77894f3d494cafbe3a8aef40f32"
+hash = "0cb0b61f261821e10c5ced322a413b4293dfaf62817f6e0d9e889ac0edf33149"
 
 [[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
