@@ -13,12 +13,20 @@ file = "config/craftpresence.json"
 hash = "69b25b5b4aa3d51ac1f6179162520997163cb8188999a886905ccaaa805a8966"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "2581253f0dd9f7296bb1a9cf0436a5942f7ba14eb8ad4e92bcf57d1eba4c9eee"
+
+[[files]]
 file = "config/ender-pearl-cooldown.json"
 hash = "0e4f905dd9599c05aa364d017194d8c636de7f4e7c65587bf4d404bdd1c80209"
 
 [[files]]
 file = "config/lifesteal-common.toml"
 hash = "bd5417df6519dd8a37e000a8efbcc0d9f02743091fa25a397bbe5e614a70cf7a"
+
+[[files]]
+file = "config/options.txt"
+hash = "2581253f0dd9f7296bb1a9cf0436a5942f7ba14eb8ad4e92bcf57d1eba4c9eee"
 
 [[files]]
 file = "config/paperdoll-client.toml"
