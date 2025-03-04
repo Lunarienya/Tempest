@@ -1,13 +1,13 @@
 name = "Banner Flags"
-filename = "banner-flags-2.6.jar"
+filename = "banner-flags-2.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cCStmVIN/versions/HT2lN6Pg/banner-flags-2.6.jar"
+url = "https://cdn.modrinth.com/data/cCStmVIN/versions/DFArrkoy/banner-flags-2.7.jar"
 hash-format = "sha1"
-hash = "7b7308bd335ed59ae3f35d4295bd931ecdc7d43c"
+hash = "bd4d2aa4bcdc472335d30062f63b690c102468c7"
 
 [update]
 [update.modrinth]
 mod-id = "cCStmVIN"
-version = "HT2lN6Pg"
+version = "DFArrkoy"
