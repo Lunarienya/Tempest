@@ -641,11 +641,6 @@ hash = "ac52495be58752d39d00f22b7e77698713c588b3dd9c85705e7b2822c707f6a8"
 metafile = true
 
 [[files]]
-file = "mods/polydex-bridge.pw.toml"
-hash = "3cedd50c62c9e2db8be3a531e67b1bdb9077d4855983f01a055259c5a55fbb32"
-metafile = true
-
-[[files]]
 file = "mods/polydex.pw.toml"
 hash = "eac2eae68b5c4d4f043491b04124c8e6503a6c996a480806ee71b350e61d010a"
 metafile = true
@@ -793,11 +788,6 @@ metafile = true
 [[files]]
 file = "mods/suppressopengl1280.pw.toml"
 hash = "f36c3d7a610de807483dc2766611d2c28b361aa8c2314e70cb3514228d03c790"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "aa9b0a592e0c8cd791e1194455a8569667d5a3f1e8b52a60bef79052474a0db8"
 metafile = true
 
 [[files]]
