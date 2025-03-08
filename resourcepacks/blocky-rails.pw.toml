@@ -1,0 +1,13 @@
+name = "Blocky Rails"
+filename = "blocky-rails.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7pWkXU7L/versions/f5uyCjlv/blocky-rails.zip"
+hash-format = "sha1"
+hash = "c7d0a6f9769e0486b9eb2d316d5c1d063248e91e"
+
+[update]
+[update.modrinth]
+mod-id = "7pWkXU7L"
+version = "f5uyCjlv"

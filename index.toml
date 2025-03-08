@@ -905,6 +905,11 @@ hash = "5b5eb0c335a6663fbe702fb0cb2faf8329bbd9dfcf8d86a2188faeeb83514409"
 metafile = true
 
 [[files]]
+file = "resourcepacks/blocky-rails.pw.toml"
+hash = "e1c572952ab7a3baef4cd15f44e5eda2ee64e6f3f33a69ddecc1a190c6811632"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "3605969b0c53956a4e39112e2571e10a77ebc4c3acc512c199b148eb1aa07b57"
 metafile = true
