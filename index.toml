@@ -591,11 +591,6 @@ hash = "9f57190f2b6b9743ff449fc774f601520aed8439ac1e75f2ccd0b6095ae6e770"
 metafile = true
 
 [[files]]
-file = "mods/no-end.pw.toml"
-hash = "9a5e56d54fcecb0ce98e47b9781910dca806f25b82ebfb00bccaf36af173d7e8"
-metafile = true
-
-[[files]]
 file = "mods/no-feather-trample.pw.toml"
 hash = "dee02854cb3f6af7682f8c6f40aaef6510c4fb181208ecb81d30117d0fd72a7e"
 metafile = true
