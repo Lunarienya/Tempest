@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
-hash = "376620dfe6cd578c65ac9094262c4863d187b459087fd7a46fb0f777193c2f8d"
+hash = "e42114f68d45122e358fd86330cbf2e67729be86da464c98034cde2981408257"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "8ed245dd545ddbceb4302c171cb802aaa149863a7d2933265cb825bdc03bb42d"
+hash = "436931c864de4e4f981c2f93a32f1913f41889681ddfba3446cd2fa128b36ad7"
 metafile = true
 
 [[files]]
@@ -832,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets-polymer.pw.toml"
-hash = "dc20bccbaa4337a3e0e6f0fbc933b9297879bb12c32c2fe63d81e3f77a621e76"
+hash = "f2096556c9a66d4d22453755220041a59df8b078ee03d04cb9ad68f72c9f7478"
 metafile = true
 
 [[files]]
