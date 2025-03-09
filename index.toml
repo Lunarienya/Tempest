@@ -371,11 +371,6 @@ hash = "b24e8c8a05c1fb22a1a40cb6c6b059b753851f5e829dbf970c372c55c0ec1d0c"
 metafile = true
 
 [[files]]
-file = "mods/exileds-boss-music-mod.pw.toml"
-hash = "9c9a4cf7043ac531ec7106eab5b7fecf85c3649682b464662b7a6d1f1c781ac9"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "fc3de66cf6bcfe027287d7bd7aebca6088095b3c3c9c93e326cb0d05ebda1f79"
 metafile = true
@@ -811,11 +806,6 @@ hash = "23a24b99076e81862f2a0efcf7ecc211aacb7256109a3f5c3013cbcbb60a5146"
 metafile = true
 
 [[files]]
-file = "mods/toms-trading-network.pw.toml"
-hash = "c96f7064cae37e97ce7c689931a775f29d2291939c9de94577a1a28dac6c7923"
-metafile = true
-
-[[files]]
 file = "mods/trafficcraft.pw.toml"
 hash = "5590f8d48ee6f9d50e0bb4b635b2d380c3aa520b297630196f6fa40dda582007"
 metafile = true
@@ -837,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/tt20.pw.toml"
-hash = "41ca6fc9929ae83cd41518ab017081598d73c2ed3c6bcce01f27c00f917caab1"
+hash = "1e44553a7e01766e71a04f14c8276f6923aa41165b9f18ee07a7c29b23d8bb42"
 metafile = true
 
 [[files]]
@@ -861,23 +851,18 @@ hash = "5909f21a6e8c5ffc7a935fa6a67cf771190ba82ac96dd11b23fd0f6ffb7b3218"
 metafile = true
 
 [[files]]
-file = "mods/weather-watch.pw.toml"
-hash = "f0082dd720660656576fcb0ee9bc9ab7b4a39d24e0f19558353272f8bfc05b20"
-metafile = true
-
-[[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "235d887b873094ce679f1e56aee75e42fdd6d52abdb5c23cd264dd20876a98c2"
+hash = "143268e4c07fdbce3a2d9523f222639122ce05ecb932694cebc0560bfd229f2b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "f3863e62ad60a846ff07dc148226d2990a57198803646e3b81334a78259585ef"
+hash = "7c739d2a5f8c0861faf6084c2ab0dbd15a7cf1465113fbf21d6173e5d404e960"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "748021e46122fedead6a76b6857ad04fa3991c5d5c37261bb3305e914f226f24"
+hash = "a955d2660a84fa40ccc8d3765424d1578b4dee0b3b1370ec9830a37c8d2e34ff"
 metafile = true
 
 [[files]]
