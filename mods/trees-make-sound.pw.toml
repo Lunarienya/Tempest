@@ -1,13 +1,13 @@
 name = "Trees Make Sound (Presence Not Required)"
-filename = "treesmakesound-1.2.1.jar"
+filename = "treesmakesound-1.2.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PxCioqZ4/versions/sHQI0dId/treesmakesound-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/PxCioqZ4/versions/fVOuRaLB/treesmakesound-1.2.3.jar"
 hash-format = "sha1"
-hash = "65c409b26db240b7b3a19ada2355901303f63224"
+hash = "094d07d48c1ead51012c461030fb48a834adfb98"
 
 [update]
 [update.modrinth]
 mod-id = "PxCioqZ4"
-version = "sHQI0dId"
+version = "fVOuRaLB"

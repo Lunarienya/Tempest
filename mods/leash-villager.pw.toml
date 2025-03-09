@@ -1,13 +1,13 @@
 name = "Leash Villager"
-filename = "leash-villager-1.1+1.21.jar"
+filename = "leash-villager-1.1-mc1.21.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PXOlmnke/versions/nBXrVNLB/leash-villager-1.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/PXOlmnke/versions/XsvBLLHm/leash-villager-1.1-mc1.21.4.jar"
 hash-format = "sha1"
-hash = "c9fc0e336e80559a9fb81cf95ddc760bbf1d9898"
+hash = "29f73942dda02ddfe202574ffc04be357694892d"
 
 [update]
 [update.modrinth]
 mod-id = "PXOlmnke"
-version = "nBXrVNLB"
+version = "XsvBLLHm"

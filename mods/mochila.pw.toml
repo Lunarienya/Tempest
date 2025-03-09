@@ -1,13 +1,13 @@
 name = "Mochila"
-filename = "mochila-fabric-1.21.1-1.4.0+1.21.1.jar"
+filename = "mochila-fabric-1.21.4-1.4.0+1.21.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IWGxWQWM/versions/MUxi2HEC/mochila-fabric-1.21.1-1.4.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/IWGxWQWM/versions/GPGvav8J/mochila-fabric-1.21.4-1.4.0%2B1.21.4.jar"
 hash-format = "sha1"
-hash = "4926c119ef6fe700c56aa3c49ba661cfe4ac203e"
+hash = "a616cb022662f8851bb21da7e3d313584509b4c5"
 
 [update]
 [update.modrinth]
 mod-id = "IWGxWQWM"
-version = "MUxi2HEC"
+version = "GPGvav8J"

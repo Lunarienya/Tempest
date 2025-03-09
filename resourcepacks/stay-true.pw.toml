@@ -1,13 +1,13 @@
 name = "Stay True"
-filename = "Stay_True_1.21.zip"
+filename = "Stay True 1.21.4.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6c14b584ecd205bbaa88a49c1a57574c9b38e79f"
+hash = "b9308e5f106797519f7a89d74c5216a5e56430bf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5493450
+file-id = 6230064
 project-id = 353554

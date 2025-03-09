@@ -1,13 +1,13 @@
 name = "Mineral Chance"
-filename = "mineralchance-1.21.1-3.7.jar"
+filename = "mineralchance-1.21.4-3.8.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/bu1hACOl/versions/9AkIkgx6/mineralchance-1.21.1-3.7.jar"
+url = "https://cdn.modrinth.com/data/bu1hACOl/versions/PSSY6NBb/mineralchance-1.21.4-3.8.jar"
 hash-format = "sha1"
-hash = "30ebe5a0c7181196ec92c7494b54d1e72aef3add"
+hash = "87122bb8050c90a735cc9beffb5bc9bf6ca22118"
 
 [update]
 [update.modrinth]
 mod-id = "bu1hACOl"
-version = "9AkIkgx6"
+version = "PSSY6NBb"

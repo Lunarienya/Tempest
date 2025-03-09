@@ -1,13 +1,13 @@
 name = "Lights"
-filename = "lights-1.2.1.jar"
+filename = "lights-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ihmfvkoN/versions/JXOWtUlO/lights-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/ihmfvkoN/versions/DiJHsHKO/lights-1.2.0.jar"
 hash-format = "sha1"
-hash = "1f26b00914663a7523aca5983e50b4e2500eff23"
+hash = "285ffe38901b5cf36c44324d247e72c1130b4ec4"
 
 [update]
 [update.modrinth]
 mod-id = "ihmfvkoN"
-version = "JXOWtUlO"
+version = "DiJHsHKO"
