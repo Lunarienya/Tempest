@@ -96,6 +96,11 @@ hash = "19ccda8cba6db88a97be7ab4b242b0d28784bb1c90602edeffabead7c84946e7"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "dfdf0018e5c12c143a5b37076d47554eb3c6759467300bd310ebfbb81857e1c2"
+metafile = true
+
+[[files]]
 file = "mods/autonomous-minecarts.pw.toml"
 hash = "057f327c53288120253c06323d4d66419785680c8e823d4b30be7f4296dbc222"
 metafile = true
@@ -718,6 +723,11 @@ metafile = true
 [[files]]
 file = "mods/signed-paintings.pw.toml"
 hash = "2ae6e96a2f6857ea9ae96182800405c7e10f401b729ebca36876a86c4aa3f8f2"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat-radio.pw.toml"
+hash = "3748391f4cc33a2f303113620b0e3fc4d5e9208edb8306e9a700804c24c43760"
 metafile = true
 
 [[files]]
