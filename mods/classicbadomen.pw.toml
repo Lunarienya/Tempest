@@ -1,6 +1,6 @@
 name = "Classic Bad Omen"
 filename = "classicbadomen-3.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/KYVi0JEk/versions/9P1vUmvG/classicbadomen-3.1.jar"

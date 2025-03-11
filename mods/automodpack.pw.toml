@@ -1,0 +1,13 @@
+name = "AutoModpack"
+filename = "automodpack-mc1.21.1-fabric-4.0.0-beta27.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k68glP2e/versions/enafh0qv/automodpack-mc1.21.1-fabric-4.0.0-beta27.jar"
+hash-format = "sha1"
+hash = "094c5aeb76f34118645701f2e3076d7f707f8cd0"
+
+[update]
+[update.modrinth]
+mod-id = "k68glP2e"
+version = "enafh0qv"

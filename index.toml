@@ -101,6 +101,11 @@ hash = "dfdf0018e5c12c143a5b37076d47554eb3c6759467300bd310ebfbb81857e1c2"
 metafile = true
 
 [[files]]
+file = "mods/automodpack.pw.toml"
+hash = "14ba087e2cc856ac543065d7700d826d88315da7943afadaefa56b684b0b3f31"
+metafile = true
+
+[[files]]
 file = "mods/autonomous-minecarts.pw.toml"
 hash = "057f327c53288120253c06323d4d66419785680c8e823d4b30be7f4296dbc222"
 metafile = true
@@ -117,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/banner-flags.pw.toml"
-hash = "64e4079bac756f780176764a029522a909d8cfb2788de24e4dafe62130a07ff4"
+hash = "5abb555fd6945fa92f2d63d7c20f8b8e80499a6929c4a558bec0d92c12a759da"
 metafile = true
 
 [[files]]
@@ -217,17 +222,17 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
+hash = "f0a78df192bc21cb400c80eb3cf9dab9a6091e78284b73ad5cb8eb2eda03c167"
 metafile = true
 
 [[files]]
 file = "mods/chunkyborder.pw.toml"
-hash = "a6096b3cc740027d6e192e8def745117f95ef73041187135522aebf8da0ea11d"
+hash = "0eff58a03086b9442d2ad4e2e0f4c3804e3760239b36b156d8e9687d78768969"
 metafile = true
 
 [[files]]
 file = "mods/classicbadomen.pw.toml"
-hash = "3ea2c91afce39d463206444256605f015328cffa19bd3e6638d2625f7e1d3f19"
+hash = "53702c6258bfd66661df3c5b9c41d70aaafd1da090861a9ccce70a4513ea79a0"
 metafile = true
 
 [[files]]
@@ -472,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/keep-some-inventory.pw.toml"
-hash = "be30c12d812b8c3a2827eab1e2e53a1ef816a90c4e7b04a4446716c52a0facb4"
+hash = "48c5e2ec4e2e2b9dcd289b405bf5ad5b0c2742be9d389c36c4d634dbc381a5c5"
 metafile = true
 
 [[files]]
@@ -492,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/leash-villager.pw.toml"
-hash = "a6f9fe0b7b272a1b7465f4ceed6c1741e2da444f166d17bbb5531afa7d856827"
+hash = "17c7e24483bd619673ea530811e8ab60f78df7f7f2e9a6b83839eca0a9d50e18"
 metafile = true
 
 [[files]]
@@ -502,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/lights.pw.toml"
-hash = "fb3539545687bf52d389bce47c274ceab7d85f03a4d60005807d0c86d4fe19c2"
+hash = "2042aa5be63636262324c99abdd90661dc6985a1a3c1085a946e05264dcfd016"
 metafile = true
 
 [[files]]
@@ -577,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-animal-tempt-delay.pw.toml"
-hash = "914461bca31f5eef1bb0a3e9f9828e4f4cbdb6d731e2f0634e9e4932677e42ac"
+hash = "e9b593253e2ab00d2ab5e5ac5e979ce89729b85362d091066bcb200d12064d1f"
 metafile = true
 
 [[files]]
@@ -587,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-creeper-grief.pw.toml"
-hash = "9f57190f2b6b9743ff449fc774f601520aed8439ac1e75f2ccd0b6095ae6e770"
+hash = "e9cdf585ffe262313da9355d391929e2c1897c5113e298215f75492de1166174"
 metafile = true
 
 [[files]]
@@ -597,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-more-phantoms.pw.toml"
-hash = "e246cf29697ebff491c801f8ae9cface5d7171a23e5eeb72c59efe8e434d5bba"
+hash = "9e030e3e4701bab68af9dcb719b54c69e597b86dfe84db928e77919741fe2aab"
 metafile = true
 
 [[files]]
@@ -677,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/refined-advancements.pw.toml"
-hash = "9a436a8878aa710fe067b238b0073eb4b86538dfc7a22179be18549137114db7"
+hash = "5059f283f098407569bba88e5ca25235c7d382c141e98593f6a7ae186aca4db1"
 metafile = true
 
 [[files]]
@@ -687,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/sandstone-recycling.pw.toml"
-hash = "e9e278eb22cb7ddf942b33932cb920067accb21be7bb33f620de5c2dcc74b8d9"
+hash = "186e4f91fc24747b33aa8aa12912c76ae4a3698a9b3b3067dcb0537fe7a45851"
 metafile = true
 
 [[files]]
@@ -707,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "aca4ca6aeb68ca0e811a2738c3c8af51c992448364d0fa0da4341177d906b033"
+hash = "f9dd36cb14ed1a79ae7be2762dde5cf10e052e7957f4f80785471d8e92b1b4a9"
 metafile = true
 
 [[files]]
@@ -757,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "c05cc19ce8f7e7e9c910dc09ab2c98afb4508d92212a87b7f8a57fe0d4bd6d36"
+hash = "2d82e499553ca62fcf4a6ee072f52420aadb9cbb156600c868dda412bdec4655"
 metafile = true
 
 [[files]]
@@ -801,11 +806,6 @@ hash = "396f20ebd7de85729585c156a08356282addd011d04a13ca6e130dfe82f0e7e2"
 metafile = true
 
 [[files]]
-file = "mods/toms-storage.pw.toml"
-hash = "23a24b99076e81862f2a0efcf7ecc211aacb7256109a3f5c3013cbcbb60a5146"
-metafile = true
-
-[[files]]
 file = "mods/trafficcraft.pw.toml"
 hash = "5590f8d48ee6f9d50e0bb4b635b2d380c3aa520b297630196f6fa40dda582007"
 metafile = true
@@ -841,6 +841,11 @@ hash = "0ed54b1edcc610d683565b957af9921940c7e913160b2c88c108959f4056ac8e"
 metafile = true
 
 [[files]]
+file = "mods/universal-shops.pw.toml"
+hash = "4872548b51e9c589f3d2710901f8403979101a19c79e48719968e0b634e9ec94"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-refresh.pw.toml"
 hash = "7ecf58e1f6ad715d54e6581cb626f347001be3f7eb8d935aac223537643df932"
 metafile = true
@@ -848,6 +853,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "5909f21a6e8c5ffc7a935fa6a67cf771190ba82ac96dd11b23fd0f6ffb7b3218"
+metafile = true
+
+[[files]]
+file = "mods/where-is-it.pw.toml"
+hash = "01ef3d3b232f1f768ee3cffdce1269d8181010126b6b1f7ef82a71ae1cbd8af3"
 metafile = true
 
 [[files]]

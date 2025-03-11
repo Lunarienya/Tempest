@@ -1,6 +1,6 @@
 name = "Sandstone Recycling"
 filename = "sandstone-recycling-1.2.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/vHOxFgL1/versions/POnzim1S/sandstone-recycling-1.2.jar"

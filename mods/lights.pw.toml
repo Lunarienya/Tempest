@@ -1,6 +1,6 @@
 name = "Lights"
 filename = "lights-1.2.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/ihmfvkoN/versions/JXOWtUlO/lights-1.2.1.jar"
