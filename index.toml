@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/automodpack.pw.toml"
-hash = "14ba087e2cc856ac543065d7700d826d88315da7943afadaefa56b684b0b3f31"
+hash = "5bd1ae9c1ee0b7815245aa553a92fbf184c9c106f83c7f149c2d8bfa6179754c"
 metafile = true
 
 [[files]]
