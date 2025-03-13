@@ -141,6 +141,11 @@ hash = "44466175c0fa140dd237a9235a3ee6ff53e482c4bb40ec3a9c56b184bd76e45f"
 metafile = true
 
 [[files]]
+file = "mods/better-concrete-conversion.pw.toml"
+hash = "387edbd5aaf5e5977d700273c91624612cd16089de45e9c9b970521a8db0ca90"
+metafile = true
+
+[[files]]
 file = "mods/better-f1-reborn.pw.toml"
 hash = "e4c023a7c604991d61ea69d41c630357b4b11f5931129f4748244ea88ba5f69a"
 metafile = true
@@ -673,6 +678,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "fd1b5dd6bffc8bbf5dcd65bb5b61458ec43eccbbbd7a7fa68a98c56f132a845c"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-re-dye-concrete-powder.pw.toml"
+hash = "8424f43bf568002134ffbab696f18e31e1a4f4b57ebd02205163e99776d8f19f"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Better Concrete Conversion"
+filename = "betterconcreteconversion-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/9YJcV0OD/versions/8TdJWjyV/betterconcreteconversion-1.0.0.jar"
+hash-format = "sha1"
+hash = "91d70e7e13a3d97b09b89b7976e197be09fef773"
+
+[update]
+[update.modrinth]
+mod-id = "9YJcV0OD"
+version = "8TdJWjyV"
