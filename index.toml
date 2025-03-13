@@ -221,6 +221,11 @@ hash = "a908f7e0bd1410c3e1b10ec0a980c52a2cea1b28afe61b615b101cdbf1baec48"
 metafile = true
 
 [[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "58924297d116979591edf21249919bfc9fb98f5ea1445d8113a6e5f76659c0fc"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "f0a78df192bc21cb400c80eb3cf9dab9a6091e78284b73ad5cb8eb2eda03c167"
 metafile = true
@@ -278,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "5e8af53554948116eb249a391d17f6bf2bcf3e97272e1541a28ad70d72e647f0"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "694416ed5b5ace1749b1b6fcdb156b22a54d8a12d49ccc45d5abf201d976fc57"
 metafile = true
 
 [[files]]
@@ -743,6 +753,11 @@ metafile = true
 [[files]]
 file = "mods/small-ships.pw.toml"
 hash = "9c9f064a1a562758b41e13ec28c27197b00401533a123e7e414e4a15cfe626bb"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "977ca8eaa6b11535360277aa0fb37d647ad3ad0356b146233d6424d7913a7196"
 metafile = true
 
 [[files]]
