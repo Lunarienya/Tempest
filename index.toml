@@ -696,6 +696,11 @@ hash = "5059f283f098407569bba88e5ca25235c7d382c141e98593f6a7ae186aca4db1"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "5bf6c5fbddfffa34cae0589e55eeb7c31e3acf60113c4b56c911f8cc84d8f8eb"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c7f88729b083bfc0200b9f39a6a27f1d7824c9f5ee145ed538d32ebf38d1b678"
 metafile = true
@@ -786,6 +791,11 @@ hash = "83897b6eb5994fab60b7f9831fd5bc055991b10855ee385f624db02375d54325"
 metafile = true
 
 [[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "dfc6114cd06f158f2e5ff0332789bdb631527add94f5d5157d0893b55f2507e7"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "8c9e9ad51f220ba0a1e80f4496124a47feb245ea27a35070e975abe7b81d3b5e"
 metafile = true
@@ -848,11 +858,6 @@ metafile = true
 [[files]]
 file = "mods/unilib.pw.toml"
 hash = "521918ca5e36f441be15d2cd155628464362f6f70a4fdda5fbbe015bbe8c0bb8"
-metafile = true
-
-[[files]]
-file = "mods/universal-graves.pw.toml"
-hash = "0ed54b1edcc610d683565b957af9921940c7e913160b2c88c108959f4056ac8e"
 metafile = true
 
 [[files]]
